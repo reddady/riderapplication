@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:map="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    tools:context=".customermap">
+
+
+    <fragment
+        android:id="@+id/map"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentStart="false"
+        android:layout_alignParentTop="false"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="3dp"
+        android:layout_marginTop="14dp"
+        android:layout_marginBottom="4dp" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/logout_Customer"
+        android:layout_width="162dp"
+        android:layout_height="58dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="34dp"
+        android:layout_marginTop="51dp"
+        android:layout_marginEnd="24dp"
+        android:text="@string/Log_out"
+        map:backgroundTint="@color/black" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/Setting_button"
+        android:layout_width="162dp"
+        android:layout_height="58dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="51dp"
+        android:text="@string/Setting_driver"
+        map:backgroundTint="@color/black" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/cab_hire_button"
+        android:layout_width="wrap_content"
+        android:layout_height="67dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="66dp"
+        android:layout_marginEnd="54dp"
+        android:layout_marginBottom="21dp"
+        android:text="@string/CarSearch_forgo"
+        map:backgroundTint="@color/black"/>
+
+</RelativeLayout>

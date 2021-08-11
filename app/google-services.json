@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "750880806816",
+    "project_id": "riderapp-6aa19",
+    "storage_bucket": "riderapp-6aa19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750880806816:android:aa0ad351800dd0d3dc76c5",
+        "android_client_info": {
+          "package_name": "com.company.rider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750880806816-oro18kdqhvuu54aadn0474gnaftd2l91.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeEiKBMDmvfmgDTxb8h5qMcUiAAUwEBXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750880806816-oro18kdqhvuu54aadn0474gnaftd2l91.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750880806816:android:ad05a8e3a1351b1cdc76c5",
+        "android_client_info": {
+          "package_name": "com.example.riderclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750880806816-oro18kdqhvuu54aadn0474gnaftd2l91.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeEiKBMDmvfmgDTxb8h5qMcUiAAUwEBXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750880806816-oro18kdqhvuu54aadn0474gnaftd2l91.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

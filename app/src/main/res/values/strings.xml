@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">riderclone</string>
+    <string name="welcometext">welcome</string>
+    <string name="email">ENTER EMAIL</string>
+    <string name="passworduser">PASSWORD</string>
+    <string name="singin">SING IN</string>
+    <string name="singup">SING UP</string>
+    <string name="forgetpass">Forget PassWord</string>
+    <string name="title_activity_driverandcustomerelcome">driverandcustomerelcome</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="loginWithCustomer">Customer</string>
+    <string name="Login_Driver">Driver</string>
+    <string name="Welcome_login_Driver">Welcome Driver</string>
+    <string name="Welcome_login_Customer">Welcome Customer</string>
+    <string name="StartButton">START</string>
+    <string name="image">TODO</string>
+    <string name="Welcome_res">Creat Driver Account </string>
+    <string name="Customer_res">Creat Customer Account</string>
+    <string name="title_activity_drivers_maps">Map</string>
+    <string name="Log_out">Log Out</string>
+    <string name="Setting_driver">Setting</string>
+    <string name="title_activity_customer_maps">Map</string>
+    <string name="CarSearch_forgo">Call For Cab</string>
+    <string name="title_activity_customer_map">Map</string>
+    <string name="title_activity_customermap">Map</string>
+    <string name="title_activity_customers_map">Map</string>
+</resources>
